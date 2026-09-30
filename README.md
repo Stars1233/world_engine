@@ -199,3 +199,17 @@ class CtrlInput:
 
 - ["Generate MP4 Sample Given Controller Inputs](./examples/gen_sample.py)
 - [Run Performance Benchmarks (`pytest examples/benchmark.py`)](./examples/benchmark.py)
+
+If you use Waypoint-1.5 for your research, please cite:
+
+```bibtex
+@misc{rajpal2026waypoint15realtimevideoworld,
+  title={Waypoint-1.5: A Real-Time Video World Model for Consumer Hardware}, 
+  author={Rajit Rajpal and Shahbuland Matiana and Liew Wei Pyn and Anmol Agarwal and Ryan Craig and Andrew Lapp and Mithun Hunsur and Sami BuGhanem and Scottie Fox and Aaron Sanders and Carson Poole and Irene Park and Dave Rossi and Spencer Frazier and Louis Castricato},
+  year={2026},
+  eprint={2609.37107},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2609.37107}
+}
+```
